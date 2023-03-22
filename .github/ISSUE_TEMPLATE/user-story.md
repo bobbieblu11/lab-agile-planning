@@ -1,6 +1,6 @@
 ---
-name: user story
-about: learning to create a user story
+name: User Story
+about: Learning to use github for user story
 title: ''
 labels: ''
 assignees: ''
